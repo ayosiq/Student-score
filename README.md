@@ -3,9 +3,13 @@
 
 ## 安装方式
 1.上传源码绑定域名 使用php74
+
 2.找到admin/config.php 修改数据库连接信息
+
 3.导入table.sql
+
 4.admin/login.php第43行修改登陆密码和账号
+
 5.访问/admin即可开始使用
 
 
